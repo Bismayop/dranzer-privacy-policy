@@ -1,4 +1,4 @@
-# Welcome To Fira Privacy Policy
+# Welcome To Shizoka Privacy Policy
 # *Read These Policy Before Invite Fira To Server.*
 # **1. What Data We Store? Who Access Those Data.**
 -> User IDs, Server IDs. & Developers Can Access Those Data.
